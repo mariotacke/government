@@ -1,0 +1,25 @@
+{
+  "name": "government",
+  "version": "1.0.0",
+  "description": "Government.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariotacke/government.git"
+  },
+  "keywords": [
+    "government",
+    "efficiency",
+    "synergy",
+    ""
+  ],
+  "author": "Mario Tacke <tacke.mario@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariotacke/government/issues"
+  },
+  "homepage": "https://github.com/mariotacke/government#readme"
+}
